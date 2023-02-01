@@ -1,0 +1,4 @@
+Favourite film: "Home"
+Favourite serial: "Menthalist"
+favourite dish: "Fried drumsticks"
+favourite season: spring
